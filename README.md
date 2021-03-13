@@ -6,8 +6,7 @@
 
 ## 👋 Hi there,welcome to my GitHub! 🚀
 
-- 🎯 Software Engineer
-- 💬 Ask me about Microservices, Node.js, PHP, GraphQL and REST APIs
-- 🎯 I’m currently learning Cloud Technologies
+- 💻 Software Engineer
+- 🎯 Microservices, Node.js, PHP, GraphQL and REST APIs, Cloud Technologies
 - 📌 From Quissamã - Rio de Janeiro State, Brazil
 - 👉 Please, visit https://leogomes.dev
