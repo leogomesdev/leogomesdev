@@ -7,7 +7,12 @@
 
 ## 👋 Hi there, welcome to my GitHub! 🚀
 
-- 💻 Software Engineer
-- 🎯 Microservices, Node.js, PHP, GraphQL and REST APIs, Cloud Technologies
+- 🎯 Software Engineer
+- 💻 Main Technology Skills:
+  - 📃 Languages/runtimes: Node.js (JavaScript/TypeScript), Java, Scala
+  - ⚙ Frameworks: Angular 2+ (front-end), NestJS (back-end), Express (back-end), Apache Spark (big data)
+  - 🗄 Databases: MongoDB, SQL (MySQL, PostgreSQL, MSSQL), DynamoDB, Redis
+  - ☁ Cloud providers: AWS, Microsoft Azure
+  - 🔧 Tools/Architecture: Docker, Microservices, APIs (REST/GraphQL), Pub/Sub Messaging, Automated Testing, CI/CD Pipelines
 - 📌 From Quissamã - Rio de Janeiro State, Brazil
 - 👉 Please, visit https://www.leogomes.dev
