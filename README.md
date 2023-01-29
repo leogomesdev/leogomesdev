@@ -13,6 +13,6 @@
   - ⚙ Frameworks: Angular 2+ (front-end), NestJS (back-end), Express (back-end), Apache Spark (big data)
   - 🗄 Databases: MongoDB, SQL (MySQL, PostgreSQL, MSSQL), DynamoDB, Redis
   - ☁ Cloud providers: AWS, Microsoft Azure
-  - 🔧 Tools/Architecture: Docker, Microservices, APIs (REST/GraphQL), Pub/Sub Messaging, Automated Testing, CI/CD Pipelines
-- 📌 From Quissamã - Rio de Janeiro State, Brazil
-- 👉 Please, visit https://www.leogomes.dev
+  - 🔧 Tools/Architecture: Docker, Terraform, Microservices, APIs (REST/GraphQL), Pub/Sub Messaging, Automated Testing, CI/CD Pipelines
+  - 📌 From Quissamã - Rio de Janeiro State, Brazil
+- 👉 https://www.leogomes.dev
