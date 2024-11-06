@@ -9,10 +9,11 @@
 
 - 🎯 Software Engineer
 - 💻 Main Technology Skills:
-  - 📃 Languages/runtimes: Node.js (JavaScript/TypeScript), Java, Scala
-  - ⚙ Frameworks: Angular 2+ (front-end), NestJS (back-end), Express (back-end), Apache Spark (big data)
-  - 🗄 Databases: MongoDB, SQL (MySQL, PostgreSQL, MSSQL), DynamoDB, Redis
-  - ☁ Cloud providers: AWS, Microsoft Azure
+  - 📃 Languages/runtimes: Node.js (JavaScript/TypeScript)
+  - ⚙ Frameworks: Angular 2+ and React.js (front-end), NestJS (back-end), Express (back-end), Apache Spark (big data)
+  - 🗄 Databases: MongoDB, SQL (MySQL, PostgreSQL, MSSQL, Snowflake), DynamoDB, Redis
+  - ☁ Cloud providers: Amazon Web Services, Google Cloud, Microsoft Azure
   - 🔧 Tools/Architecture: Docker, Terraform, Microservices, APIs (REST/GraphQL), Pub/Sub Messaging, Automated Testing, CI/CD Pipelines
-  - 📌 From Quissamã - Rio de Janeiro State, Brazil
+  - 📌 From Quissamã - Rio de Janeiro State, Brazil 🇧🇷
+  - 📌 Living in Toronto, Ontario - Canada 🇨🇦
 - 👉 https://www.leogomes.dev
